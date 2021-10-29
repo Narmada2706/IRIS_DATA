@@ -15,3 +15,7 @@ Supervised learning on the iris dataset¶
 Framed as a supervised learning problem
 Predict the species of an iris using the measurements
 Famous dataset for machine learning because prediction is easy
+
+
+# Other Useful Links:
+https://www.linkedin.com/in/narmada-ugale-b411a61ab/
